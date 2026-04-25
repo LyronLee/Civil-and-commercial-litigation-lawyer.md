@@ -1,0 +1,16 @@
+# Kimi local config
+.kimi/
+
+# Aider
+.aider*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
