@@ -68,7 +68,7 @@ civil-litigation-lawyer/
    - 解压ZIP文件到任意位置
 
 2. **打开 Kimi 对话框**
-   - Kimi Code CLI / Kimi 桌面端 / Kimi 网页版 均可
+   - Kimi Code CLI / Kimi 桌面端 均可
    
 3. **上传整个项目文件夹**
    - 拖拽解压后的 `民事诉讼律师.md - V1.0.0/` 文件夹到对话框
