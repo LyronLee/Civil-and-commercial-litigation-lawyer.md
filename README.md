@@ -57,7 +57,7 @@ civil-litigation-lawyer/
 
 > 📖 **首次使用？请先看《使用指南.md》** — 包含Skill安装方法、使用方式、各阶段提示语示例、常见问题等完整教程。
 
-### 安装Skill（3种方式，任选一种）
+### 安装Skill
 
 #### ✅ 方式一：直接上传文件夹安装（最傻瓜化，强烈推荐）
 
@@ -85,34 +85,6 @@ civil-litigation-lawyer/
    - 安装完成后会提示"Skill 安装成功"
 
 > 💡 **提示**：如果上传的是ZIP文件，Kimi会自动解压并找到Skill文件。
-
-#### 方式二：复制粘贴安装
-
-如果无法上传文件夹，可以复制粘贴：
-
-1. **打开 `civil-litigation-lawyer` 文件**
-   - 用记事本/VS Code/任何文本编辑器打开
-   - 全选（Ctrl+A）→ 复制（Ctrl+C）
-   
-2. **打开 Kimi 对话框**，粘贴并发送：
-   ```
-   【以下是我要安装的Skill内容，请帮我安装】
-
-   [粘贴 SKILL.md 的完整内容]
-   ```
-
-3. **Kimi 自动完成安装**
-
-#### 方式三：Kimi Code CLI 手动安装
-
-```bash
-# 将本Skill文件夹复制到 Kimi Skill 目录
-# Linux/Mac:
-cp -r "民事诉讼律师.md - V1.0.0/civil-litigation-lawyer/" ~/.kimi/daimon/skills/
-
-# Windows:
-# 复制 civil-litigation-lawyer/ 文件夹到 %USERPROFILE%\.kimi\daimon\skills\
-```
 
 ### 使用Skill（一句话启动）
 
